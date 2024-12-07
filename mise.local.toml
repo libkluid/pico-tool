@@ -1,0 +1,2 @@
+[env]
+PICO_SDK_PATH = "{{env.PWD}}/.sdk"
